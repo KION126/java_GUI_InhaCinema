@@ -9,4 +9,4 @@
 ◤Platforms & Languages<br>
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![netbeans](https://img.shields.io/badge/apachenetbeanside-1B6AC6?style=for-the-badge&logo=mysql&logoColor=white)
+![netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
