@@ -9,4 +9,20 @@
 ◤Platforms & Languages<br>
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+◤Tools<br>
 ![netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+
+◤로그인, 회원가입<br>
+
+◤메인화면(영화 선택 화면)<br>
+
+◤예매화면<br>
+
+◤좌석선택화면, 결제창<br>
+
+◤내정보화면<br>
+
+◤예매정보화면, 취소내역화면<br>
+
+◤예매상세화면<br>
