@@ -1,4 +1,4 @@
-# 대학교 JavaPrograming과목 기말 프로젝트
+# InhaCinema
 
 ### 영화관 예매 윈도우 애플리케이션
 * Netbeans GUI로 영화관 결제, 좌석 예매 윈도우 애플리케이션
